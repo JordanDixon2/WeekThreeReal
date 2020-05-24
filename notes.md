@@ -3,4 +3,8 @@
 - I also tried simply going to the url and copying the text there, but it would take an hour of highlighting all of the text on that page to get it all.
 - In the future getting stuck like this this early I would absolutely ask for help, and push myself to keep going, but I decided to stay with my original goal for just this week, mostly because I am capable of continuing with files given by Dr. Graham for the next portion.
 - Open Refine downloading went fine, took me to proper url.
-- 
+- Asked Dr. Graham for the correspondance.csv file to work on Refine, will work on networks in the meantime.
+- Downloaded the graph provided by Dr. Graham to work in ConnectTheDots, however it appears the server is down at the moment.
+- I have discovered that doing a small number of names in ConnectTheDots works, but when I try and include all of the data from the file provided, the server crashes.
+- I copied a smaller amount of names from the file and pasted them, and that worked fine. I understand it was not exactly what I was meant to do, but I still learned how to do it, as well as how it works with a smaller sample size.
+- The gephi steps were easy to follow

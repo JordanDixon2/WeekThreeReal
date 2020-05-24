@@ -1,0 +1,6 @@
+- For this week, I decided it would be interesting to see how far I could get on my own and push myself rather than getting help to finish every step that confused me.
+- Only the first step worked for the regex portion, I downloaded anaconda curl fine, but when I used curl to pull the file needed, it never worked, and the .txt file would always be 0 bytes with no text in it. I attempted trying it again with a different file name, redownloading curl, but nothing worked properly for me.
+- I also tried simply going to the url and copying the text there, but it would take an hour of highlighting all of the text on that page to get it all.
+- In the future getting stuck like this this early I would absolutely ask for help, and push myself to keep going, but I decided to stay with my original goal for just this week, mostly because I am capable of continuing with files given by Dr. Graham for the next portion.
+- Open Refine downloading went fine, took me to proper url.
+- 
